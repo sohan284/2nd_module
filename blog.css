@@ -1,0 +1,24 @@
+.blog{
+    background-color:rgb(238, 245, 138);
+    color: rgb(109, 87, 67);
+    width: 100%;
+    border: 2px dashed rgb(77, 42, 204);
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 80%;
+    padding: 10px;
+    text-align: center;
+}
+.cap{
+    color: darkmagenta;
+}
+.b{
+    text-align: left;
+}
+.l{
+    text-align: right;
+}
+.o{
+    text-align: left;
+}

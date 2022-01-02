@@ -1,0 +1,39 @@
+h1{
+    color: rgb(84, 136, 7);
+    background-color: aliceblue;
+    height: 50%;
+    font-weight: 75%+;
+}
+.hh1{
+    color: #413e3e;
+    background-color: hsl(241, 43%, 75%);
+    width: 70%;
+}
+h2{
+    color: greenyellow;
+}
+h4{
+    color: hotpink;
+}
+h3{
+    color: rgb(0, 0, 0);
+    background-color:rgb(207, 26, 26);
+    height: 50%;
+    weigth: 50%;
+}
+#hi{
+    color: black;
+    background-color: aquamarine;
+    height: 80px;
+    width: 50%;
+    font-size: 30px;
+   
+}
+p{
+    color: black;
+    background-color: burlywood;
+}
+.h2{
+    color: cornflowerblue;
+    background-color: rgb(231, 121, 198);
+}
